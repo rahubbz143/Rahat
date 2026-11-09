@@ -58,7 +58,7 @@
     "Xrahat_Name": "🔰𝗬𝗼𝘂𝗿 𝗡𝗮𝗺𝗲🔰",
     "Xrahat_resend": true,
     "Resend_Group_tid": "𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽 𝗧𝗶𝗱 𝗜𝗗",
-    "PREFIX": "/",
+    "PREFIX": "-",
     "ADMINBOT": [
         "61596415914121",
         "3"

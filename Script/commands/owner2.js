@@ -59,16 +59,16 @@ module.exports.run = async function({ api, event }) {
     let y = cardY + 220;
 
     const info = [
-        "👑 Name : Rahat Islam",
-        "🧸 Nickname : Rahat",
-        "🎂 Age : 16",
+        "👑 Name :Abir Hasan Rahat",
+        "🧸 Nickname :Rahuu",
+        "🎂 Age : 18",
         "💘 Relation : Single",
         "🎓 Profession : Student",
-        "🏡 Address : Jamalpur",
+        "🏡 Address : Mymensingh ",
         "",
         "🔗 CONTACT LINKS",
-        "📘 Facebook : fb.com/61581900625860",
-        "💬 Messenger : m.me/61581900625860"
+        "📘 Facebook : fb.com/61596415914121",
+        "💬 Messenger : m.me/61596415914121"
     ];
 
     for (const line of info) {

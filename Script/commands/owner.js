@@ -19,27 +19,25 @@ module.exports.run = async function ({ api, event }) {
 ╔═══════════════✿
 ║ ✨ 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 ✨
 ╠═══════════════✿
-║ 👑 𝗡𝗮𝗺𝗲 : 𝗥𝗮𝗵𝗮𝘁 𝗜𝘀𝗹𝗮𝗺
+║ 👑 𝗡𝗮𝗺𝗲 : 𝐀𝐛𝐢𝐫 𝐇𝐚𝐬𝐚𝐧 𝐑𝐚𝐡𝐚𝐭
 ║ 🧸 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 : 𝗥𝗮𝗵𝗮𝘁
-║ 🎂 𝗔𝗴𝗲 : 16
+║ 🎂 𝗔𝗴𝗲 : 18
 ║ 💘 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻 : 𝗦𝗶𝗻𝗴𝗹𝗲
 ║ 🎓 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻 : 𝗦𝘁𝘂𝗱𝗲𝗻𝘁
-║ 🏡 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 : 𝗝𝗮𝗺𝗮𝗹𝗽𝘂𝗿
+║ 🏡 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 :𝐌𝐲𝐦𝐞𝐧𝐬𝐢𝐧𝐠𝐡
 ╠═══════════════✿
 ║ 🔗 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ╠═══════════════✿
-║ 📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
-║ fb.com/61582708907708
+║ 📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 
+║ https://www.facebook.com/profile.php?id=61596415914121
 ║ 💬 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
-║ m.me/61582708907708
+║ m.me/61596415914121
 ╚═══════════════✿
 `;
 
   const images = [
-    "https://i.imgur.com/G8wZwUB.jpeg",
-    "https://i.imgur.com/942vNzR.jpeg",
-    "https://i.imgur.com/viT3o6b.jpeg",
-    "https://i.imgur.com/btn02Xz.jpeg"
+    "https://i.imgur.com/KMH4B5b.jpeg,
+    ""
   ];
 
   const randomImg = images[Math.floor(Math.random() * images.length)];

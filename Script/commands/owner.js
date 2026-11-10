@@ -29,7 +29,7 @@ module.exports.run = async function ({ api, event }) {
 ║ 🔗 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ╠═══════════════✿
 ║ 📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 
-║ https://www.facebook.com/profile.php?id=61596415914121
+║ https://www.facebook=61596415914121
 ║ 💬 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
 ║ m.me/61596415914121
 ╚═══════════════✿
@@ -37,7 +37,7 @@ module.exports.run = async function ({ api, event }) {
 
   const images = [
     "https://i.imgur.com/KMH4B5b.jpeg,
-    ""
+    "https://i.imgur.com/KMH4B5b.jpeg"
   ];
 
   const randomImg = images[Math.floor(Math.random() * images.length)];
